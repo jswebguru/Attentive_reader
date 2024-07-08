@@ -29,5 +29,3 @@ layers in order to build the model.
 
 The main script that most of the model is being built and the computational graph is being
 constructed is in the attentive_reader.py script.
-
-The code provided in this repo is released with BSD 3-clause license.

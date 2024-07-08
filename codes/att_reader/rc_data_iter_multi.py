@@ -44,7 +44,7 @@ def load_data(path=None, valid_path=None, test_path=None, batch_size=128):
        Loads the dataset.
     '''
     if path is None:
-        path='/u/yyu/stor/caglar/rc-data/cnn/cnn_train_data.h5'
+        path='/u/yyu/stor/jswebguru/rc-data/cnn/cnn_train_data.h5'
 
     print "Using training data ", path
     #############

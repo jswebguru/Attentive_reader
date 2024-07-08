@@ -1,9 +1,7 @@
-__authors__ = ["Caglar Gulcehre", "Junyoung Chung", "Laurent Dinh"]
+__authors__ = ["Guru", "Junyoung Chung", "Laurent Dinh"]
 __copyright__ = "Copyright 2014, Universite de Montreal"
 __credits__ = "Laurent Dinh"
-__license__ = "3-clause BSD"
-__maintainer__ = "Junyoung Chung"
-__email__ = "chungjun@iro"
+__email__ = "jswebguru77@gmail.com"
 
 import theano
 
@@ -480,7 +478,7 @@ class Adasecant(LearningRule):
     """
     Adasecant:
         Based on the paper:
-            Gulcehre, Caglar, and Yoshua Bengio.
+            Gulcehre, jswebguru, and Yoshua Bengio.
             "ADASECANT: Robust Adaptive Secant Method for Stochastic Gradient."
             arXiv preprint arXiv:1412.7419 (2014).
     There are some small changes in this code.
